@@ -6,17 +6,19 @@ All solutions are pushed automatically using LeetHub.
 
 ## 🔥 Goals
 - Strengthen problem-solving skills  
-- Build strong DSA foundation  
+- Build strong DSA foundation
+- Query Language
 - Prepare for technical interviews  
 - Maintain consistent coding practice  
 
 ## 🛠 Languages Used
 - Java  
 - Python  
-- JavaScript  
+- JavaScript
+- SQL 
 
 ## 📈 Progress
-Problems solved: 2+ (and counting...)
+Problems solved: 5+ (and counting...)
 
 ## 🌱 Consistency
 I aim to solve problems daily and continuously improve my coding and optimization skills.
